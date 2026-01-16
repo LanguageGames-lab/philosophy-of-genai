@@ -13,7 +13,7 @@ Aujourd'hui, nous vivons dans un monde dominé par une IA radicalement différen
 
 Ce changement de nature impose un changement de stratégie. Si la machine ne peut plus garantir la vérité par sa propre structure logique, c'est à nous de structurer l'environnement dans lequel elle opère. C'est ici qu'intervient le concept d'Enveloppement (Enveloping).
 
-[![Clicca per ingrandire](infografica enveloppement.png)](infografica enveloppement.png)
+[![Clicca per ingrandire](infografica-enveloppement.png)](infografica-enveloppement.png)
 ---
 
 ## 1. La rupture historique : De la logique de Kasparov à la statistique d'AlphaGo
