@@ -1,7 +1,7 @@
 # Du Logos à la Statistique : Gouverner l'IA par le Design de l'Environnement
 
-**Auteur :** LanguageGames-lab
-**Date :** Janvier 2026
+**Auteur :** [LanguageGames-lab]  
+**Date :** 16 Janvier 2025
 
 ---
 
