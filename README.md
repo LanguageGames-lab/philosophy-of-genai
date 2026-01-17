@@ -12,4 +12,9 @@ Une analyse ontologique de la distinction fondamentale entre la capacité d'agir
 📅 *16 Janvier 2026*  
 De la logique déductive à l'Enveloppement (*Enveloping*) de Floridi : comment construire des espaces logiques robustes pour gérer une IA probabiliste.
 
+### 3. [Gouverner l'Imprévisible](logos_statistique_governance_light.md)
+📅 *17 Janvier 2026* 
+Version light de Du Logos à la Statistique : Gouverner l'IA
+
+
 ---
