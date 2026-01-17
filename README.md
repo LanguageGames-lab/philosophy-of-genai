@@ -5,7 +5,7 @@ Ici, j'explore la "grammaire" de l'IA Générative à travers le prisme de la ph
 ## 📄 Publications / Essais
 
 ### 1. [Agency, Intelligence et l’erreur de reconnaissance](2025-01-agency-intelligence.md)
-📅 * 1 Janvier 2026*  
+📅 *1 Janvier 2026*  
 Une analyse ontologique de la distinction fondamentale entre la capacité d'agir (*Agency*) et la capacité de comprendre (*Intelligence*), et pourquoi nous confondons souvent les deux.
 
 ### 2. [Du Logos à la Statistique : Gouverner l'IA](logos_statistique_governance.md)
