@@ -17,7 +17,7 @@ Questo fenomeno ha un nome preciso coniato da Luciano Floridi: la **pareidolia s
 
 Proprio come la pareidolia visiva ci fa vedere volti nelle nuvole, la pareidolia semantica ci spinge a proiettare intenzionalità, senso e coscienza laddove c'è solo statistica e riconoscimento di pattern (*pattern matching*) su larga scala. Percepiamo una mente dove esiste solo una straordinaria capacità di manipolare simboli.
 
-![Clicca per ingrandire](infografica-agency.png)
+[![Clicca per ingrandire](../images/infografica-agency-ita.png)](../images/infografica-agency-ita.png)
 
 ---
 
