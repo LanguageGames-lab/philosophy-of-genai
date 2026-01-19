@@ -17,7 +17,7 @@ This phenomenon has a precise name coined by Luciano Floridi: **semantic pareido
 
 Just as visual pareidolia makes us see faces in clouds, semantic pareidolia pushes us to project intentionality, meaning, and consciousness where there is only statistics and large-scale pattern matching. We perceive a mind where there is only an extraordinary capacity to manipulate symbols.
 
-![Click to enlarge](infografica-agency.png)
+[![Clicca per ingrandire](../images/infografica-agency-en.png)](../images/infografica-agency-en.png)
 
 ---
 
