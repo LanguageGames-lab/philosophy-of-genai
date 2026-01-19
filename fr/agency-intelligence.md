@@ -1,7 +1,7 @@
 # Agency, intelligence et l’erreur de reconnaissance à l’ère de l’IA
 
 **Auteur :** [LanguageGames-lab]  
-**Date :** Janvier 2025
+**Date :** 16 Janvier 2025
 
 ---
 
