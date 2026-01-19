@@ -19,9 +19,9 @@ I explore the "grammar" of Generative AI through the lens of philosophy of langu
 ### 1. Agency, Intelligence & The Error of Recognition
 *An ontological analysis of the fundamental distinction between acting (Agency) and understanding (Intelligence).*
 
-| 🇫🇷 French | 🇬🇧 English | 🇮🇹 Italian |
+| <img src="images/gb.png" width="20"> English | <img src="images/fr.png" width="20"> French | <img src="images/it.png" width="20"> Italian |
 | :--- | :--- | :--- |
-| [**Read Article**](fr/agency-intelligence.md) | [**Read Article**](en/agency_intelligence_en.md) | [**Read Article**](it/agency_intelligenza_it.md) |
+| [**Read Article**](en/agency_intelligence_en.md) | [**Lire l'article**](fr/agency-intelligence.md) | [**Leggi l'articolo**](it/agency_intelligenza_it.md) |
 
 <br>
 
@@ -30,25 +30,25 @@ I explore the "grammar" of Generative AI through the lens of philosophy of langu
 
 This work is available in two versions:
 
-#### 🏛️ A. Full Research Paper (Philosophical & Technical)
+#### 🏛️ A. Full Paper (Philosophical & Technical)
 *The complete analysis featuring Wittgenstein's logical space and the theory of Enveloping.*
 
-| 🇫🇷 French | 🇬🇧 English | 🇮🇹 Italian |
+| <img src="images/gb.png" width="20"> English | <img src="images/fr.png" width="20"> French | <img src="images/it.png" width="20"> Italian |
 | :--- | :--- | :--- |
-| [**Full Paper**](fr/logos_statistique_governance.md) | [**Full Paper**](en/logos_statistics_governance.md) | [**Full Paper**](it/logos_statistica_governance.md) |
+| [**Full Paper**](en/logos_statistics_governance.md) | [**Papier Complet**](fr/logos_statistique_governance.md) | [**Saggio Completo**](it/logos_statistica_governance.md) |
 
-#### 💼 B. Executive Summary (For Managers & Leaders)
-*A pragmatic guide to managing AI in business, focused on strategy and processes without philosophical jargon.*
+#### 💼 B. Executive Summary (Light version)
+*A pragmatic guide to managing AI in business, focused on strategy and processes.*
 
-| 🇫🇷 French | 🇬🇧 English | 🇮🇹 Italian |
+| <img src="images/gb.png" width="20"> English | <img src="images/fr.png" width="20"> French | <img src="images/it.png" width="20"> Italian |
 | :--- | :--- | :--- |
-| [**Manager Guide**](fr/logos_statistique_governance_light.md) | [**Manager Guide**](en/logos_statistics_governance_light.md) | [**Manager Guide**](it/logos_statistica_governance_light.md) |
+| [**Light version**](en/logos_statistics_governance_light.md) | [**Version light**](fr/logos_statistique_governance_light.md) | [**Versione light**](it/logos_statistica_governance_light.md) |
 
 ---
 
 ### 🛠️ About LanguageGames-lab
 
-**Curated by:** [Your Name]  
+**Curated by:** [LanguageGames-lab]  
 *Data Scientist Senior & PhD in Philosophy of Language.*
 
 > *"The limits of my language mean the limits of my world."* — L. Wittgenstein
