@@ -16,7 +16,7 @@ I explore the "grammar" of Generative AI through the lens of philosophy of langu
 
 ## 📚 Publications
 
-### 1. Agency, Intelligence & The Error of Recognition
+### 1. Agency, Intelligence, and the Error of Recognition in the AI Era
 *An ontological analysis of the fundamental distinction between acting (Agency) and understanding (Intelligence).*
 
 | <img src="images/gb.png" width="20"> English | <img src="images/fr.png" width="20"> French | <img src="images/it.png" width="20"> Italian |
@@ -25,10 +25,8 @@ I explore the "grammar" of Generative AI through the lens of philosophy of langu
 
 <br>
 
-### 2. From Logos to Statistics
+### 2. From Logos to Statistics: Governing AI through Environmental Design
 *From deductive logic to Floridi's Enveloping strategy: understanding the new paradigm.*
-
-This work is available in two versions:
 
 #### 🏛️ A. Full Paper (Philosophical & Technical)
 *The complete analysis featuring Wittgenstein's logical space and the theory of Enveloping.*
