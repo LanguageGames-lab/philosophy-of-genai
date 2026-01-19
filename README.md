@@ -1,20 +1,57 @@
-Bienvenue dans mon laboratoire de recherche personnel dédié à l'IA, l'Épistémologie et la Data Science.
+# LanguageGames-lab 🧠
 
-Ici, j'explore la "grammaire" de l'IA Générative à travers le prisme de la philosophie du langage (Wittgenstein) et de l'éthique de l'information (Floridi). L'objectif est de transformer la paréidolie sémantique en une *Agency* structurée et gouvernée.
+**[EN]** Welcome to my personal research lab on AI, Epistemology, and Data Science.
 
-## 📄 Publications / Essais
+**[FR]** Bienvenue dans mon laboratoire de recherche sur l'IA, l'Épistémologie et la Data Science.
 
-### 1. [Agency, Intelligence et l’erreur de reconnaissance](2025-01-agency-intelligence.md)
-📅 *1 Janvier 2026*  
-Une analyse ontologique de la distinction fondamentale entre la capacité d'agir (*Agency*) et la capacité de comprendre (*Intelligence*), et pourquoi nous confondons souvent les deux.
-
-### 2. [Du Logos à la Statistique : Gouverner l'IA](logos_statistique_governance.md)
-📅 *16 Janvier 2026*  
-De la logique déductive à l'Enveloppement (*Enveloping*) de Floridi : comment construire des espaces logiques robustes pour gérer une IA probabiliste.
-
-### 3. [Gouverner l'Imprévisible](logos_statistique_governance_light.md)
-📅 *17 Janvier 2026*  
-Version light de Du Logos à la Statistique : Gouverner l'IA
-
+**[IT]** Benvenuti nel mio laboratorio di ricerca su IA, Epistemologia e Data Science.
 
 ---
+
+### 🎯 Mission
+
+I explore the "grammar" of Generative AI through the lens of philosophy of language (**Wittgenstein**) and information ethics (**Floridi**). The goal is to move beyond the hype, turning *semantic pareidolia* into structured, governed *Agency*.
+
+---
+
+## 📚 Publications
+
+### 1. Agency, Intelligence & The Error of Recognition
+*An ontological analysis of the fundamental distinction between acting (Agency) and understanding (Intelligence).*
+
+| 🇫🇷 French | 🇬🇧 English | 🇮🇹 Italian |
+| :--- | :--- | :--- |
+| [**Read Article**](fr/agency-intelligence.md) | [**Read Article**](en/agency_intelligence_en.md) | [**Read Article**](it/agency_intelligenza_it.md) |
+
+<br>
+
+### 2. From Logos to Statistics
+*From deductive logic to Floridi's Enveloping strategy: understanding the new paradigm.*
+
+This work is available in two versions:
+
+#### 🏛️ A. Full Research Paper (Philosophical & Technical)
+*The complete analysis featuring Wittgenstein's logical space and the theory of Enveloping.*
+
+| 🇫🇷 French | 🇬🇧 English | 🇮🇹 Italian |
+| :--- | :--- | :--- |
+| [**Full Paper**](fr/logos_statistique_governance.md) | [**Full Paper**](en/logos_statistics_governance.md) | [**Full Paper**](it/logos_statistica_governance.md) |
+
+#### 💼 B. Executive Summary (For Managers & Leaders)
+*A pragmatic guide to managing AI in business, focused on strategy and processes without philosophical jargon.*
+
+| 🇫🇷 French | 🇬🇧 English | 🇮🇹 Italian |
+| :--- | :--- | :--- |
+| [**Manager Guide**](fr/logos_statistique_governance_light.md) | [**Manager Guide**](en/logos_statistics_governance_light.md) | [**Manager Guide**](it/logos_statistica_governance_light.md) |
+
+---
+
+### 🛠️ About LanguageGames-lab
+
+**Curated by:** [Your Name]  
+*Data Scientist Senior & PhD in Philosophy of Language.*
+
+> *"The limits of my language mean the limits of my world."* — L. Wittgenstein
+
+---
+License: MIT
