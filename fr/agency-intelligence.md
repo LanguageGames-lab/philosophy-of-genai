@@ -17,7 +17,7 @@ Ce phénomène porte un nom précis forgé par Luciano Floridi : la **paréidoli
 
 Tout comme la paréidolie visuelle nous fait voir des visages dans les nuages, la paréidolie sémantique nous pousse à projeter de l'intentionnalité, du sens et de la conscience là où il n'y a que de la statistique et de la reconnaissance de formes (*pattern matching*) à grande échelle. Nous percevons un esprit là où il n'existe qu'une extraordinaire capacité à manipuler des symboles.
 
-[![Clicca per ingrandire](infografica-agency.png)](infografica-agency.png)
+[![Clicca per ingrandire](../images/infografica-agency-fr.png)](../images/infografica-agency-fr.png)
 ---
 
 ## 1. Le paradoxe d’Eliza : quand le code paraît humain
