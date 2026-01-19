@@ -14,6 +14,8 @@ Ces nouveaux modèles ne suivent pas de règles logiques : ils calculent des pro
 
 Pour les managers, cela change tout. On ne gère pas une machine probabiliste comme on gère un logiciel classique. Voici comment reprendre le contrôle.
 
+[![Clicca per ingrandire](../images/infografica-enveloppement-fr.png)](../images/infografica-enveloppement-fr.png)
+
 ---
 
 ## 1. Le jour où la machine a cessé de calculer pour commencer à "deviner"
