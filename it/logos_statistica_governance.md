@@ -48,7 +48,7 @@ Ma cosa garantisce che il gioco abbia senso? È ciò che Wittgenstein chiama la 
 
 ### Il deficit ontologico dell'IA
 È qui che risiede il problema dell'IA Generativa. Gli LLM possono generare la frase "Verrò dopodomani" con una sintassi perfetta. Ma, proprio come il cane di Wittgenstein, non abitano il tempo. Non hanno una Forma di Vita. Per un'IA, "dopodomani" non è un'attesa o un impegno verso il futuro, è solo una probabilità statistica che segue la parola "verrò".
-Di conseguenza, l'IA è incapace di "sentire" i limiti dello Spazio Logico. Senza ancoraggio nel mondo reale, è sempre suscettibile di derivare, producendo allucinazioni che sono grammaticalmente impeccabili ma ontologicamente vuote.
+Di conseguenza, l'IA è incapace di "sentire" i limiti dello Spazio Logico. Senza ancoraggio nel mondo reale, è sempre suscettibile di derivare, producendo allucinazioni che sono grammaticalmente impeccabili ma ontologicamente vuote (Unsinn).
 Ma anche quando l’IA produce frasi sensate — come ormai fa nella stragrande maggioranza dei casi — è incapace di affacciarsi alla finestra per controllare se fuori c’è davvero il sole. Per aumentare le probabilità che dica il vero, dobbiamo fornirle noi le informazioni sul tempo atmosferico.
 
 
