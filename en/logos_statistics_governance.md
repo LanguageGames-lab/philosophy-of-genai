@@ -34,7 +34,7 @@ Here is where the divorce is consummated: we have moved from deductive computing
 ## 2. The Structure of Meaning: Logical Space and Form of Life
 
 This technological transition finds a striking philosophical echo in the evolution of Ludwig Wittgenstein's thought. To understand the error of current AI, we can revisit concepts found in the Tractatus Logico-Philosophicus and the Philosophical Investigations that explore the limits of meaning.
-In the Tractatus, Wittgenstein introduces the concept of logical space (Logischer Raum): a proposition has sense only if it describes a possible state of affairs within the logical structure of the world. If one steps outside this space, one does not produce falsehood; one produces non-sense (unsinn).
+In the Tractatus, Wittgenstein introduces the concept of logical space (Logischer Raum): a proposition has sense only if it describes a possible state of affairs within the logical structure of the world. If one steps outside this space, one does not produce falsehood; one produces non-sense (Unsinn).
 
 "The ladder wants to eat" is a proposition without sense.
 "It is sunny outside" is a sensible proposition because it describes a possible state of affairs.
@@ -48,7 +48,7 @@ But what guarantees that the game has meaning? It is what Wittgenstein calls the
 
 ### The Ontological Deficit of AI
 Here lies the problem of Generative AI. LLMs can generate the phrase "I will come the day after tomorrow" with perfect syntax. But, just like Wittgenstein's dog, they do not inhabit time. They have no Form of Life. For an AI, "the day after tomorrow" is not an expectation or a commitment to the future; it is just a statistical probability following the word "come."
-Consequently, AI is incapable of "sensing" the limits of Logical Space. Without an anchor in the real world, it is always susceptible to drifting, producing hallucinations that are grammatically impeccable but ontologically empty (unsinn).
+Consequently, AI is incapable of "sensing" the limits of Logical Space. Without an anchor in the real world, it is always susceptible to drifting, producing hallucinations that are grammatically impeccable but ontologically empty (Unsinn).
 Even when AI produces sensible sentences — as it now does in the vast majority of cases — it is incapable of looking out the window to check if the sun is actually shining. To increase the probability of it speaking the truth, we must provide it with information about the weather.
 
 ---
