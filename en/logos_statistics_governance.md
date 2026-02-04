@@ -13,7 +13,7 @@ Today, we live in a world dominated by a radically different AI, founded on Stat
 
 This change in nature imposes a change in strategy. If the machine can no longer guarantee truth through its own logical structure, it is up to us to structure the environment in which it operates. This is where the concept of Enveloping comes into play.
 
-![Logos vs Statistics Infographic](../images/cover-logos.png)
+[![Clicca per ingrandire](../images/copertina_logos.png)](../images/copertina_logos.png)
 
 ---
 
@@ -70,6 +70,7 @@ We refuse the AI access to the "open world" (the entire Internet) where it hallu
 By doing this, we provide the AI with an artificial and temporary form of life. We trace the "perimeter wire" that transforms uncontrollable statistical probability into a reliable tool.
 
 ---
+[![Clicca per ingrandire](../images/info_logos.png)](../images/info_logos.png)
 
 ## 4. The Governance of Uncertainty: Management, Responsibility, and Infra-ethics
 
