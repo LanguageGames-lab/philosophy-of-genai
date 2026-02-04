@@ -33,20 +33,23 @@ Here is where the divorce is consummated: we have moved from deductive computing
 
 ## 2. The Structure of Meaning: Logical Space and Form of Life
 
-This technological transition finds a striking philosophical echo in the evolution of Ludwig Wittgenstein's thought. To understand the error of current AI, one must not oppose the "early" and "later" Wittgenstein, but listen to their common lesson on the limits of meaning.
+This technological transition finds a striking philosophical echo in the evolution of Ludwig Wittgenstein's thought. To understand the error of current AI, we can revisit concepts found in the Tractatus Logico-Philosophicus and the Philosophical Investigations that explore the limits of meaning.
+In the Tractatus, Wittgenstein introduces the concept of logical space (Logischer Raum): a proposition has sense only if it describes a possible state of affairs within the logical structure of the world. If one steps outside this space, one does not produce falsehood; one produces non-sense (unsinn).
 
-In the *Tractatus*, Wittgenstein introduces the concept of Logical Space (*Logischer Raum*): a proposition has sense only if it describes a possible state of affairs within the logical structure of the world. If one steps outside this space, one does not produce falsehood; one produces non-sense (*Unsinn*).
-Later, in the *Philosophical Investigations*, he clarifies that this space is not fixed but defined by the context of Language Games (*Sprachspiele*). The meaning of a word is not a mental object; it is its regulated use within a specific activity.
+"The ladder wants to eat" is a proposition without sense.
+"It is sunny outside" is a sensible proposition because it describes a possible state of affairs.
+A sensible proposition can then be True or False. If I look outside and the sun is shining, the proposition is true; if it is raining, it is false.
 
-But what guarantees that the game has meaning? It is what Wittgenstein calls the Form of Life (*Lebensform*).
-He illustrates this concept with a famous example: "A dog believes his master is at the door. But can he also believe his master will come the day after tomorrow?"
-The answer is no. The dog cannot have this thought, not because it lacks "data," but because the institution of "the day after tomorrow" (the abstract future) does not exist in its form of life. Its world lacks the temporal depth necessary to anchor this concept.
+Later, in the Philosophical Investigations, he clarifies that this logical space is not fixed but defined by the context of language games (Sprachspiele). The meaning of a word is not a mental object; it is its regulated use within a specific activity.
+If I say, "The King moves only one square at a time," and I am discussing the rules of chess, the proposition has sense and is also true.
+If I say it while talking about King Charles III, the phrase no longer has sense; it is out of context.
+
+But what guarantees that the game has meaning? It is what Wittgenstein calls the form of life (Lebensform). He illustrates this with a famous example: "A dog believes his master is at the door. But can he also believe his master will come the day after tomorrow?" The answer is no. The dog cannot have this thought, not because it lacks "data," but because the institution of "the day after tomorrow" (the abstract future) does not exist in its form of life. Its world lacks the temporal depth necessary to anchor this concept.
 
 ### The Ontological Deficit of AI
-
-Here lies the problem of Generative AI. LLMs can generate the phrase "I will come the day after tomorrow" with perfect syntax. But, just like Wittgenstein's dog, they do not inhabit time. They have no Form of Life.
-For an AI, "the day after tomorrow" is not an expectation or a commitment to the future; it is just a statistical probability following the word "come."
-Consequently, AI is incapable of "sensing" the limits of Logical Space. Without an anchor in the real world, it is always susceptible to drifting, producing hallucinations that are grammatically impeccable but ontologically empty.
+Here lies the problem of Generative AI. LLMs can generate the phrase "I will come the day after tomorrow" with perfect syntax. But, just like Wittgenstein's dog, they do not inhabit time. They have no Form of Life. For an AI, "the day after tomorrow" is not an expectation or a commitment to the future; it is just a statistical probability following the word "come."
+Consequently, AI is incapable of "sensing" the limits of Logical Space. Without an anchor in the real world, it is always susceptible to drifting, producing hallucinations that are grammatically impeccable but ontologically empty (unsinn).
+Even when AI produces sensible sentences — as it now does in the vast majority of cases — it is incapable of looking out the window to check if the sun is actually shining. To increase the probability of it speaking the truth, we must provide it with information about the weather.
 
 ---
 
