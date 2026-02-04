@@ -27,7 +27,7 @@ It was a move that no human master would have ever taught or played. At the mome
 Yet, that move won the game.
 The difference is fundamental: AlphaGo had not been programmed with rigid logical rules to "win"; it had learned by playing millions of games against itself. Move 37 was not the fruit of logical deduction (If A then B), but of statistical intuition. The machine had calculated that there was an infinitesimal, yet existing, probability that this obscure move would lead to victory.
 
-Here is where the the split is complete : we have moved from deductive computing (following rules) to inductive computing (learning patterns). AI has stopped trying to understand the logic of the game to concentrate on the statistics of victory.
+Here is where the split is complete : we have moved from deductive computing (following rules) to inductive computing (learning patterns). AI has stopped trying to understand the logic of the game to concentrate on the statistics of victory.
 
 ---
 
