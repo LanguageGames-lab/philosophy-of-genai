@@ -33,20 +33,24 @@ La differenza è fondamentale: AlphaGo non era stato programmato con regole logi
 
 ## 2. La struttura del senso: Spazio Logico e Forma di Vita
 
-Questa transizione tecnologica trova un'eco filosofica sorprendente nell'evoluzione del pensiero di Ludwig Wittgenstein. Per comprendere l'errore dell'IA attuale, non bisogna contrapporre il "primo" e il "secondo" Wittgenstein, ma ascoltare la loro lezione comune sui **limiti del senso**.
+Questa transizione tecnologica trova un'eco filosofica sorprendente nell'evoluzione del pensiero di Ludwig Wittgenstein. Per comprendere l'errore dell'IA attuale, possiamo riprendere dei concetti presenti nel Tractatus Logico-Philosophicus e nelle Ricerche Filosofiche che esplorano i limiti del senso.
+Nel Tractatus, Wittgenstein introduce il concetto di Spazio Logico (Logischer Raum): una proposizione ha senso solo se descrive uno stato di cose possibile all'interno della struttura logica del mondo. Se si esce da questo spazio, non si produce il falso, si produce il non-senso (Unsinn).
 
-Nel *Tractatus*, Wittgenstein introduce il concetto di **Spazio Logico** (*Logischer Raum*): una proposizione ha senso solo se descrive uno stato di cose possibile all'interno della struttura logica del mondo. Se si esce da questo spazio, non si produce il falso, si produce il non-senso (*Unsinn*).
-Più tardi, nelle *Ricerche Filosofiche*, precisa che questo spazio non è fisso, ma definito dal contesto dei **Giochi Linguistici** (*Sprachspiele*). Il senso di una parola non è un oggetto mentale, è il suo uso regolato all'interno di un'attività specifica.
+“La scala ha voglia di mangiare” è una proposizione senza senso.
+“Fuori c’è il sole” è una proposizione sensata perché descrive uno stato di cose possibile.
 
-Ma cosa garantisce che il gioco abbia senso? È ciò che Wittgenstein chiama la **Forma di Vita** (*Lebensform*).
-Egli illustra questo concetto con un esempio celebre: **"Un cane crede che il suo padrone sia alla porta. Ma può anche credere che il suo padrone verrà dopodomani?"**
-La risposta è no. Il cane non può avere questo pensiero, non perché gli manchino i "dati", ma perché l'istituzione del "dopodomani" (il futuro astratto) non esiste nella sua forma di vita. Il suo mondo non ha la profondità temporale necessaria per ancorare questo concetto.
+Una proposizione sensata può poi essere Vera o Falsa. Se guardo fuori e c’è il sole, la proposizione è vera; se piove, è falsa.
+Più tardi, nelle Ricerche Filosofiche, precisa che questo spazio logico non è fisso, ma definito dal contesto dei Giochi Linguistici (Sprachspiele). Il senso di una parola non è un oggetto mentale, è il suo uso regolato all'interno di un'attività specifica.
+Se dico: “Il Re muove solo di una casella alla volta” e sto parlando delle regole degli scacchi, la proposizione ha senso ed è anche Vera.
+Se lo dico mentre parlo di Re Carlo III, la frase non ha più senso; è fuori contesto.
+
+Ma cosa garantisce che il gioco abbia senso? È ciò che Wittgenstein chiama la Forma di Vita (Lebensform). Egli illustra questo concetto con un esempio celebre: “Un cane crede che il suo padrone sia alla porta. Ma può anche credere che il suo padrone verrà dopodomani?” La risposta è no. Il cane non può avere questo pensiero, non perché gli manchino i "dati", ma perché l'istituzione del "dopodomani" (il futuro astratto) non esiste nella sua forma di vita. Il suo mondo non ha la profondità temporale necessaria per ancorare questo concetto.
 
 ### Il deficit ontologico dell'IA
-
-È qui che risiede il problema dell'IA Generativa. Gli LLM possono generare la frase *"Verrò dopodomani"* con una sintassi perfetta. Ma, proprio come il cane di Wittgenstein, non abitano il tempo. Non hanno una *Forma di Vita*.
-Per un'IA, "dopodomani" non è un'attesa o un impegno verso il futuro, è solo una probabilità statistica che segue la parola "verrò".
+È qui che risiede il problema dell'IA Generativa. Gli LLM possono generare la frase "Verrò dopodomani" con una sintassi perfetta. Ma, proprio come il cane di Wittgenstein, non abitano il tempo. Non hanno una Forma di Vita. Per un'IA, "dopodomani" non è un'attesa o un impegno verso il futuro, è solo una probabilità statistica che segue la parola "verrò".
 Di conseguenza, l'IA è incapace di "sentire" i limiti dello Spazio Logico. Senza ancoraggio nel mondo reale, è sempre suscettibile di derivare, producendo allucinazioni che sono grammaticalmente impeccabili ma ontologicamente vuote.
+Ma anche quando l’IA produce frasi sensate — come ormai fa nella stragrande maggioranza dei casi — è incapace di affacciarsi alla finestra per controllare se fuori c’è davvero il sole. Per aumentare le probabilità che dica il vero, dobbiamo fornirle noi le informazioni sul tempo atmosferico.
+
 
 ---
 
