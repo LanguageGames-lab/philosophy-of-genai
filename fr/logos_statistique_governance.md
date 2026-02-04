@@ -33,20 +33,24 @@ C'est ici que le divorce est consommé : nous sommes passés d'une informatique 
 
 ## 2. La structure du sens : Espace Logique et Forme de Vie
 
-Cette transition technologique trouve un écho philosophique saisissant dans l'évolution de la pensée de Ludwig Wittgenstein. Pour comprendre l'erreur de l'IA actuelle, il ne faut pas opposer le « premier » et le « second » Wittgenstein, mais écouter leur leçon commune sur les limites du sens.
+Cette transition technologique trouve un écho philosophique surprenant dans l'évolution de la pensée de Ludwig Wittgenstein. Pour comprendre l'erreur de l'IA actuelle, nous pouvons revisiter des concepts présents dans le Tractatus Logico-Philosophicus et les Investigations Philosophiques, qui explorent les limites du sens.
+Dans le Tractatus, Wittgenstein introduit le concept d'Espace Logique (Logischer Raum) : une proposition n'a de sens que si elle décrit un état de choses possible à l'intérieur de la structure logique du monde. Si l'on sort de cet espace, on ne produit pas le faux, on produit le non-sens (Unsinn).
 
-Dans le *Tractatus*, Wittgenstein introduit le concept d'Espace Logique (*Logischer Raum*) : une proposition n'a de sens que si elle décrit un état de choses possible à l'intérieur de la structure logique du monde. Si l'on sort de cet espace, on ne produit pas du faux, on produit du non-sens (*Unsinn*).
-Plus tard, dans les *Investigations*, il précise que cet espace n'est pas fixe, mais défini par le contexte des Jeux de Langage (*Sprachspiele*). Le sens d'un mot n'est pas un objet mental, c'est son usage réglé à l'intérieur d'une activité spécifique.
+« L'échelle a envie de manger » est une proposition sans sens.
+« Il fait soleil dehors » est une proposition qui a du sens, car elle décrit un état de choses possible.
+Une proposition sensée peut ensuite être vraie ou fausse. Si je regarde dehors et que le soleil brille, la proposition est vraie ; s'il pleut, elle est fausse.
 
-Mais qu'est-ce qui garantit que le jeu a du sens ? C'est ce que Wittgenstein appelle la Forme de Vie (*Lebensform*).
-Il illustre ce concept avec un exemple célèbre : **« Un chien croit que son maître est à la porte. Mais peut-il aussi croire que son maître viendra après-demain ? »**
-La réponse est non. Le chien ne peut pas avoir cette pensée, non pas parce qu'il manque de "données", mais parce que l'institution du "surlendemain" (le futur abstrait) n'existe pas dans sa forme de vie. Son monde n'a pas la profondeur temporelle nécessaire pour ancrer ce concept.
+Plus tard, dans les Investigations Philosophiques, il précise que cet espace logique n'est pas fixe, mais défini par le contexte des jeux de Langage (Sprachspiele). Le sens d'un mot n'est pas un objet mental, c'est son usage réglé au sein d'une activité spécifique.
+Si je dis : « Le Roi ne se déplace que d'une case à la fois » et que je parle des règles des échecs, la proposition a du sens et elle est aussi vraie.
+Si je dis cela en parlant du Roi Charles III, la phrase n'a plus de sens ; elle est hors contexte.
+
+Mais qu'est-ce qui garantit que le jeu ait du sens ? C'est ce que Wittgenstein appelle la Forme de Vie (Lebensform). Il illustre ce concept avec un exemple célèbre : « Un chien croit que son maître est à la porte. Mais peut-il aussi croire que son maître viendra après-demain ? » La réponse est non. Le chien ne peut pas avoir cette pensée, non pas parce qu'il manque de « données », mais parce que l'institution de « l'après-demain » (le futur abstrait) n'existe pas dans sa forme de vie. Son monde n'a pas la profondeur temporelle nécessaire pour ancrer ce concept.
 
 ### Le déficit ontologique de l'IA
 
-C'est ici que réside le problème de l'IA Générative. Les LLM peuvent générer la phrase "Je viendrai après-demain" avec une syntaxe parfaite. Mais, tout comme le chien de Wittgenstein, ils n'habitent pas le temps. Ils n'ont pas de Forme de Vie.
-Pour une IA, "après-demain" n'est pas une attente ou un engagement vers le futur, c'est juste une probabilité statistique qui suit le mot "viendrai".
-Par conséquent, l'IA est incapable de "sentir" les limites de l'Espace Logique. Sans ancrage dans le monde réel, elle est toujours susceptible de dériver, produisant des hallucinations qui sont grammaticalement impeccables mais ontologiquement vides.
+C'est là que réside le problème de l'IA Générative. Les LLM peuvent générer la phrase « Je viendrai après-demain » avec une syntaxe parfaite. Mais, tout comme le chien de Wittgenstein, ils n'habitent pas le temps. Ils n'ont pas de forme de vie. Pour une IA, « après-demain » n'est pas une attente ou un engagement envers l'avenir, c'est juste une probabilité statistique qui suit le verbe « venir ».
+Par conséquent, l'IA est incapable de « sentir » les limites de l'Espace Logique. Sans ancrage dans le monde réel, elle est toujours susceptible de dériver, produisant des hallucinations qui sont grammaticalement impeccables mais ontologiquement vides (Unsinn).
+Même lorsque l'IA produit des phrases sensées — comme elle le fait désormais dans la grande majorité des cas — elle est incapable de regarder par la fenêtre pour vérifier si le soleil brille vraiment. Pour augmenter la probabilité qu'elle dise la vérité, nous devons lui fournir nous-mêmes les informations sur la météo.
 
 ---
 
