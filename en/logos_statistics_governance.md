@@ -22,12 +22,12 @@ This change in nature imposes a change in strategy. If the machine can no longer
 For a long time, artificial intelligence was synonymous with Symbolic Logic (GOFAI - *Good Old-Fashioned AI*). The supreme example of this era is Deep Blue's victory against Garry Kasparov in 1997. Deep Blue was a triumph of brute force and deduction: a machine that did not "encounter" the unknown but calculated all possible ramifications within a rigid system of rules. It won because it respected the logic of the game better than the human.
 
 The true paradigm shift occurred nearly twenty years later with AlphaGo. During the second game against world champion Lee Sedol in 2016, the AI played what is now known as "Move 37."
-It was a move that no human master would have ever taught or played. At the moment, commentators thought it was a bug, a calculation error. That move seemed "illogical" compared to the millennial tradition of the game.
+It was a move that no human master would have ever taught or played. At the moment, commentators thought it was a bug, a calculation error. That move seemed "illogical" compared to the ancient tradition of the game.
 
 Yet, that move won the game.
 The difference is fundamental: AlphaGo had not been programmed with rigid logical rules to "win"; it had learned by playing millions of games against itself. Move 37 was not the fruit of logical deduction (If A then B), but of statistical intuition. The machine had calculated that there was an infinitesimal, yet existing, probability that this obscure move would lead to victory.
 
-Here is where the divorce is consummated: we have moved from deductive computing (following rules) to inductive computing (learning patterns). AI has stopped trying to understand the logic of the game to concentrate on the statistics of victory.
+Here is where the the split is complete : we have moved from deductive computing (following rules) to inductive computing (learning patterns). AI has stopped trying to understand the logic of the game to concentrate on the statistics of victory.
 
 ---
 
@@ -81,7 +81,7 @@ AI governance consists of defining the Wittgensteinian Rules of the Game:
 AI management is not limited to IT maintenance. It is about the organization and supervision of systems to ensure they function effectively and responsibly.
 Legal compliance (GDPR, AI Act) constitutes Hard Ethics: it is the minimum requirement. But faced with statistical AI that can produce "legal but toxic" (or false) results, the law is not enough.
 AI governance is an exercise in Soft Ethics: it consists of navigating the space of uncertainty that the law has not yet covered. It is the company's ability to define its own "Rules of the Game" before a regulator imposes them.
-The manager ("Green Collar") does not settle for applying the rule; they must design the acceptable risk.
+The AI Steward (or "Green Collar") cannot merely apply rules; they must design the acceptable risk.
 
 **2. Responsibility: Refusing the "Black Box" Alibi**
 A major risk identified by Floridi is the "Black Box" mentality: the idea that, since AI calculations are opaque, no one is responsible for its errors.
@@ -99,7 +99,7 @@ This is where Infra-ethics comes in: integrating values (transparency, inclusion
 ### Conclusion: The Design of Trust
 
 The passage from Logos to Statistics is not a regression; it is a transformation of our relationship with technology.
-Generative AI offers us phenomenal power to act, but it removes logical certainty. To compensate for this loss, we must build structures (technological, legal, ethical) that reintroduce stability.
+Generative AI offers us unprecedented agency, but it removes logical certainty. To compensate for this loss, we must build structures (technological, legal, ethical) that reintroduce stability.
 
-The challenge for modern organizations is not to sell or buy statistical "magic." The challenge is to build robust Logical Spaces—"enveloped" environments—where the power of AI can unfold in total safety, guided by human intention.
+The challenge for modern organizations is not to sell or buy statistical "magic." The challenge is to build robust Logical Spaces — "enveloped" environments — where the power of AI can unfold in total safety, guided by human intention.
 That is where the true added value of tomorrow lies: not in the tool, but in the architecture of trust that surrounds it.
