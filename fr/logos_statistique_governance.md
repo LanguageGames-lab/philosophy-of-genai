@@ -48,7 +48,9 @@ Mais qu'est-ce qui garantit que le jeu ait du sens ? C'est ce que Wittgenstein a
 
 ### Le déficit ontologique de l'IA
 
-C'est là que réside le problème de l'IA Générative. Les LLM peuvent générer la phrase « Je viendrai après-demain » avec une syntaxe parfaite. Mais, tout comme le chien de Wittgenstein, ils n'habitent pas le temps. Ils n'ont pas de forme de vie. Pour une IA, « après-demain » n'est pas une attente ou un engagement envers l'avenir, c'est juste une probabilité statistique qui suit le verbe « venir ».
+D'un point de vue de l'ingénierie, les LLM sont la validation empirique la plus radicale de la thèse wittgensteinienne selon laquelle « le sens est l'usage ». Lorsque nous entraînons un modèle pour construire un Espace Vectoriel Multidimensionnel (Embeddings), nous ne faisons que traduire des « jeux de langage » en géométrie. Un vecteur n'encode pas la vérité logique d'un concept, mais les coordonnées statistiques de son usage. Le modèle prédit le token suivant simplement en calculant la distance entre ces usages dans l'espace vectoriel, imitant parfaitement les règles du jeu sans jamais le jouer dans la réalité.
+
+Mais c'est là que réside le problème de l'IA Générative. Les LLM peuvent générer la phrase « Je viendrai après-demain » avec une syntaxe parfaite. Mais, tout comme le chien de Wittgenstein, ils n'habitent pas le temps. Ils n'ont pas de forme de vie. Pour une IA, « après-demain » n'est pas une attente ou un engagement envers l'avenir, c'est juste une probabilité statistique qui suit le verbe « venir ».
 Par conséquent, l'IA est incapable de « sentir » les limites de l'Espace Logique. Sans ancrage dans le monde réel, elle est toujours susceptible de dériver, produisant des hallucinations qui sont grammaticalement impeccables mais ontologiquement vides (Unsinn).
 Même lorsque l'IA produit des phrases sensées — comme elle le fait désormais dans la grande majorité des cas — elle est incapable de regarder par la fenêtre pour vérifier si le soleil brille vraiment. Pour augmenter la probabilité qu'elle dise la vérité, nous devons lui fournir nous-mêmes les informations sur la météo.
 
